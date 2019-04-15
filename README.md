@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Hugo](https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png)
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
@@ -185,3 +186,7 @@ Hugo stands on the shoulder of many great open source libraries, in lexical orde
  
  
  
+=======
+# alpine-hugo
+a hugo on alpine-linux repo
+>>>>>>> f85000ee74b9171a54b241859083de15833e2054
